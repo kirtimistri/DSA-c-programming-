@@ -85,9 +85,9 @@ int main()
     third->data = 4;
     third->next = NULL;
     // this function call takes only one argument which points towerds head fitrst
+    // then start the traversal
     printf("linked list before insertion\n");
     linkedlidtdisplay(head);
-    // then start the traversal
     // head=insertatfirst(head,7);
     // insertatindex(head,56,1);
     // insertatend(head,56);
